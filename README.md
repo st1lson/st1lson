@@ -4,6 +4,6 @@
 
 * ✨ I’m enjoy coding and learning something new.
 * 🌱 I’m currently focused on learning .Net and enjoy it
-* ⚡ My PC spec: Ryzen 5 3600, MSI GTX 1660 Super, RAM 32 GM, MSI Tomahawk.
+* ⚡ My PC spec: Ryzen 5 3600, MSI GTX 1660 Super, RAM 32 GB, MSI Tomahawk.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=st1lson&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
