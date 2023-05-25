@@ -1,4 +1,4 @@
-### 👋 Hi there, my nickname is st1lson and I like to improve my skills in .Net.
+### 👋 Hi there, my nickname is st1lson and I like to improve my skills in .NET.
 
 ![Alt Text](https://github.com/st1lson/st1lson/blob/main/docs/images/image.png)
 
