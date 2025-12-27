@@ -1,9 +1,11 @@
-### 👋 Hi there, my nickname is st1lson and I like to improve my skills in .NET.
+### 👋 I’m Maksym, a Senior Software Engineer (Backend)
 
 ![Alt Text](https://github.com/st1lson/st1lson/blob/main/docs/images/image.png)
 
-* ✨ I enjoy coding and learning something new.
-* ⚡ My PC spec: Ryzen 5 3600, MSI GTX 1660 Super, RAM 32 GB, MSI Tomahawk.
+* 💡 I design and build scalable backend systems with a strong focus on performance, reliability, and clean architecture.
+* 🛠️ Tech stack: Go, Node.js, C# (.NET)
+* 📦 Experienced with distributed systems, APIs, and cloud-native solutions
+* 📚 Always learning and refining my engineering craft
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=st1lson&theme=transparent&hide_border=true">
